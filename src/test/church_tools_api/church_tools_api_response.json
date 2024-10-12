@@ -1,0 +1,218 @@
+{
+    "data": [
+        {
+            "guid": "8E5B44F5-A5F2-486D-8398-088497B8BA2E",
+            "churchGuid": "8E5B44F5-A5F2-486D-8398-088497B8BA2E",
+            "churchSlug": "feg-karlsruhe",
+            "churchName": "FeG Karlsruhe",
+            "slug": "feg-karlsruhe",
+            "name": "FeG Karlsruhe",
+            "shortName": "FeG Karlsruhe",
+            "addressStreet": "Am Wald 2",
+            "addressCity": "Karlsruhe",
+            "profileType": "church",
+            "website": "https://feg-karlsruhe.de",
+            "churchtoolsUrl": "https://feg-karlsruhe.church.tools",
+            "location": {
+                "x": 8.387782665617626,
+                "y": 49.032311251617706
+            },
+            "geolat": "49.032311251617706",
+            "geolong": "8.387782665617626",
+            "visitors": 250,
+            "socialMediaLinks": [
+                {
+                    "type": "YouTube",
+                    "link": "https://youtube.com/channel/UCJY7nEV3VfPIZQ5ioOjbwDA"
+                },
+                {
+                    "type": "Instagram",
+                    "link": "https://instagram.com/fegkarlsruhe"
+                },
+                {
+                    "type": "Spotify",
+                    "link": "https://open.spotify.com/show/5fWfzf9uZ8RAmxiaCdMG5n"
+                },
+                {
+                    "type": "Facebook",
+                    "link": "https://facebook.com/FeG.Karlsruhe"
+                }
+            ],
+            "logo": "https://feg-karlsruhe.church.tools/images/5666/94cad2b15f9d6db662dececb00b58b64b9728b488ce4ea51107322c36f583038",
+            "banner": "https://feg-karlsruhe.church.tools/images/16328/83ea52369309e94e3b0d7d1ab602b66af1028cb007ae2225ea7811a229d34037",
+            "lastSynced": "2024-10-02T08:16:42.000Z",
+            "dataQuality": 30,
+            "score": 1,
+            "distanceFromMapCenter": null,
+            "distanceInMeter": null,
+            "tags": [
+                {
+                    "key": "INTERNATIONAL",
+                    "name": "international",
+                    "nameTranslated": "international"
+                },
+                {
+                    "key": "OPEN_TO_GUESTS",
+                    "name": "open.to.guests",
+                    "nameTranslated": "offen f\u00fcr G\u00e4ste"
+                },
+                {
+                    "key": "PERSONAL",
+                    "name": "personal",
+                    "nameTranslated": "famili\u00e4r"
+                }
+            ],
+            "groupHomepages": [
+                {
+                    "id": 132,
+                    "groupId": 564,
+                    "name": "In Kontakt bleiben",
+                    "guid": "8E5B44F5-A5F2-486D-8398-088497B8BA2E",
+                    "url": "https://feg-karlsruhe.church.tools/grouphomepage/nEGUWeNLhlzcW19tdPmBDThNVZreAAoR",
+                    "isNormal": true,
+                    "isSignup": false,
+                    "sortkey": 0,
+                    "sortBy": "name",
+                    "orderDirection": "ASC",
+                    "groups": [
+                        {
+                            "id": 177,
+                            "groupId": 559,
+                            "name": "Abo Flyer/News als Chat-Nachricht",
+                            "image": "https://feg-karlsruhe.church.tools/images/9055/2318bdf88800d88c977aa85da8505bc97f16ee488189d9a1115f43a38d0a6694",
+                            "url": "https://feg-karlsruhe.church.tools/publicgroup/559?hash=nEGUWeNLhlzcW19tdPmBDThNVZreAAoR",
+                            "weekday": null,
+                            "startTime": "",
+                            "dateOfFoundation": null
+                        },
+                        {
+                            "id": 183,
+                            "groupId": 891,
+                            "name": "Newsletter FeG",
+                            "image": "https://feg-karlsruhe.church.tools/images/13231/2d452f75ff247599b09ef5b9607236c22e22d73b15718ed993353625d11e6104",
+                            "url": "https://feg-karlsruhe.church.tools/publicgroup/891?hash=nEGUWeNLhlzcW19tdPmBDThNVZreAAoR",
+                            "weekday": null,
+                            "startTime": "",
+                            "dateOfFoundation": null
+                        },
+                        {
+                            "id": 186,
+                            "groupId": 484,
+                            "name": "Zugang zu ChurchTools",
+                            "image": "https://feg-karlsruhe.church.tools/images/9138/b4f29ccebab2fe8cc465f35a8f019307d1ba4a642269b4953782b95fd5f617b4",
+                            "url": "https://feg-karlsruhe.church.tools/publicgroup/484?hash=nEGUWeNLhlzcW19tdPmBDThNVZreAAoR",
+                            "weekday": null,
+                            "startTime": "",
+                            "dateOfFoundation": null
+                        }
+                    ]
+                },
+                {
+                    "id": 1631,
+                    "groupId": 655,
+                    "name": "Veranstaltungen",
+                    "guid": "8E5B44F5-A5F2-486D-8398-088497B8BA2E",
+                    "url": "https://feg-karlsruhe.church.tools/grouphomepage/egrLVrswarjPRAMWqcEGtcknlZ64euMV",
+                    "isNormal": true,
+                    "isSignup": false,
+                    "sortkey": 1,
+                    "sortBy": "name",
+                    "orderDirection": "ASC",
+                    "groups": [
+                        {
+                            "id": 63698,
+                            "groupId": 2144,
+                            "name": "Herbstwanderung mit Caf\u00e9 Besuch \u00b7 19.10.2024",
+                            "image": "https://feg-karlsruhe.church.tools/images/22271/f51f1e2b347585d3d78b544b3e4e7817aa7d175e8111390efe8dda4fd669920b",
+                            "url": "https://feg-karlsruhe.church.tools/publicgroup/2144?hash=egrLVrswarjPRAMWqcEGtcknlZ64euMV",
+                            "weekday": 6,
+                            "startTime": "14 - ca. 17 Uhr",
+                            "dateOfFoundation": "2024-10-18T22:00:00.000Z"
+                        }
+                    ]
+                },
+                {
+                    "id": 2252,
+                    "groupId": 1675,
+                    "name": "Freizeitaktivit\u00e4ten",
+                    "guid": "8E5B44F5-A5F2-486D-8398-088497B8BA2E",
+                    "url": "https://feg-karlsruhe.church.tools/grouphomepage/gbEwbsyNBOuRvqk3KiksjqOdvDJKtmIK",
+                    "isNormal": true,
+                    "isSignup": false,
+                    "sortkey": 2,
+                    "sortBy": "name",
+                    "orderDirection": "ASC",
+                    "groups": [
+                        {
+                            "id": 20828,
+                            "groupId": 1678,
+                            "name": "(Strategie-)Spieletreff",
+                            "image": "https://feg-karlsruhe.church.tools/images/15715/2c7d4a5e3e96aa11255d7f4944702a111cbe2158821016c6fc165143fc1d12d7",
+                            "url": "https://feg-karlsruhe.church.tools/publicgroup/1678?hash=gbEwbsyNBOuRvqk3KiksjqOdvDJKtmIK",
+                            "weekday": 4,
+                            "startTime": "2. Donnerstag im Monat, 19 Uhr",
+                            "dateOfFoundation": null
+                        },
+                        {
+                            "id": 20831,
+                            "groupId": 1737,
+                            "name": "Artsministry",
+                            "image": "https://feg-karlsruhe.church.tools/images/16221/40a8a68f7ed61ca887516b39cb390dba7b778edfe83b73b3820df48ff2ed3161",
+                            "url": "https://feg-karlsruhe.church.tools/publicgroup/1737?hash=gbEwbsyNBOuRvqk3KiksjqOdvDJKtmIK",
+                            "weekday": 4,
+                            "startTime": "20:00 Uhr",
+                            "dateOfFoundation": null
+                        },
+                        {
+                            "id": 20834,
+                            "groupId": 1747,
+                            "name": "Feuerabend",
+                            "image": "https://feg-karlsruhe.church.tools/images/16236/ef52a0de556ebeb8f877e8358974fdb8e84039e70a5697ce5bb6575c252fe9dc",
+                            "url": "https://feg-karlsruhe.church.tools/publicgroup/1747?hash=gbEwbsyNBOuRvqk3KiksjqOdvDJKtmIK",
+                            "weekday": 5,
+                            "startTime": "20:00 Uhr",
+                            "dateOfFoundation": null
+                        },
+                        {
+                            "id": 20837,
+                            "groupId": 1746,
+                            "name": "Lauftreff",
+                            "image": "https://feg-karlsruhe.church.tools/images/16237/56dee74abb3eb27ea84ade2ccc727f2ea96b32f52bdfc0ab60acee1ac7de6b8e",
+                            "url": "https://feg-karlsruhe.church.tools/publicgroup/1746?hash=gbEwbsyNBOuRvqk3KiksjqOdvDJKtmIK",
+                            "weekday": 6,
+                            "startTime": "09:00 Uhr",
+                            "dateOfFoundation": null
+                        }
+                    ]
+                }
+            ],
+            "association": {
+                "id": 134,
+                "name": "Bund Freier evangelischer Gemeinden Deutschland",
+                "abbreviation": "FeG",
+                "key": "FeGDE"
+            },
+            "denomination": {
+                "id": 9,
+                "name": "denomination.free.evangelical",
+                "nameTranslated": "ev.-freikirchlich",
+                "key": "FREE_EVANGELICAL"
+            },
+            "other": []
+        }
+    ],
+    "places": [],
+    "meta": {
+        "mapCenter": null,
+        "referenceLocation": null,
+        "churchesCount": 1,
+        "goodMatchesCount": 1,
+        "placesCount": 0,
+        "pagination": {
+            "total": 1,
+            "limit": 15,
+            "current": 1,
+            "lastPage": 1
+        }
+    }
+}
