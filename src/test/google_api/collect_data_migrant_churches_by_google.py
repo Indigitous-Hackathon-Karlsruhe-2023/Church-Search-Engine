@@ -1,8 +1,8 @@
 import requests
 from googletrans import Translator
 
-API_KEY = '***'
-CSE_ID = '***'
+API_KEY = 'AIzaSyC8PdvC3vP7yJ0TUiEzY3XxIfM9rZeoFgg'
+CSE_ID = '170baafe75a1a4e11'
 ENDPOINT = "https://www.googleapis.com/customsearch/v1"
 
 translator = Translator()

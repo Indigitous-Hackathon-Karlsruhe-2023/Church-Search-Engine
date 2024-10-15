@@ -24,7 +24,7 @@ def search_churches_and_store(url, headers=None, params=None, output_file='respo
 
 # Example usage
 if __name__ == "__main__":
-    url = 'https://find.church.tools/api/search?quickSearch=true&query=FEG karlsruhe'
+    url = 'https://find.church.tools/api/search?quickSearch=true&query=Fächerkirche karlsruhe'
     # headers = {
     #     'Authorization': 'Bearer your_access_token'  # If authentication is needed
     # }
